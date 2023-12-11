@@ -1,0 +1,54 @@
+/* element selector */
+div {
+    background-color: chocolate;
+    color: aquamarine;
+}
+
+/* class selector */
+
+.class1{
+    background-color: black;
+    color: aliceblue;
+}
+
+/* id selector */
+
+#id1{
+    background-color: cadetblue;
+    color: tomato;
+}
+
+/* child selector */
+
+main > p {
+    background-color:cornflowerblue ;
+    color: darkviolet;
+}
+
+ /* Descendant Sellector */
+
+div p {
+    background-color:coral;
+    color: deeppink;
+ }
+
+ /* universal selector */
+
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+ /* pseudo selector */
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+}
