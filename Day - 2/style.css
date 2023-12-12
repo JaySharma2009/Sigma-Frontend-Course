@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    background-color: lightcoral;
+    color: lavenderblush;
+    margin: 5px;
+    padding: 10px;
+    border: 01px;
+    border-color: black;
+    box-sizing: border-box;
+    height: 100px;
+}
+
+.box2 {
+    background-color:mediumslateblue;
+    color:khaki;
+    margin: 5px;
+    padding: 10px;
+    border: 01px;
+    border-color: black;
+    box-sizing: border-box;
+    height: 100px;
+}
