@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    font-size: medium;
+    font-style: oblique;
+
+    /* text pro..  */
+
+    /* text-decoration: overline;
+    text-align: center;
+    text-transform: lowercase;
+    text-decoration-line: overline;
+    text-decoration-color: cadetblue; */
+
+    /* word break overflow vagera .. */
+/* 
+    word-break: break-all;
+    overflow: hidden; */
+
+}
